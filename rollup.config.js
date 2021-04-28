@@ -8,7 +8,7 @@ export default {
         format: 'esm'
     },
     {
-        file: 'bundle.min.js',
+        file: 'js/bundle.min.js',
         format: 'esm',
         name: 'version',
         plugins: [terser()]
