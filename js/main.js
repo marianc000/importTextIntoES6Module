@@ -1,0 +1,1 @@
+import './very/long/path/component.js'

@@ -1,0 +1,16 @@
+{
+  "name": "ImportTextIntoJSModules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "inlineawaits-rollup-plugin": "git+https://github.com/marianc000/inlineAwaitsRollupPlugin.git",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
